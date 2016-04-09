@@ -1,8 +1,7 @@
-layout_spectrum: 0.7846245
-typography_spectrum: 0.03495921
+layout_spectrum: 0.3471178
 color:
-  saturation: 0.331211
-  lightness: 0.3679737
+  saturation: 0.5137845
+  lightness: 0.3132832
   brandStrength: 0.758772
   brandColors:
     - '#313030'
@@ -10,5 +9,6 @@ color:
     - '#F3CFBD'
     - '#FBAB65'
     - '#396F49'
-  rhythmicContrast: 0.1364696
+  rhythmicContrast: 0.6159148
+typography_spectrum: 0.8088973
 name: MuseScenic
