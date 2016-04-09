@@ -1,14 +1,26 @@
-layout_spectrum: 0.3471178
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.8088973
 color:
-  saturation: 0.5137845
-  lightness: 0.3132832
+  saturation: 0.5983709
   brandStrength: 0.758772
+  lightness: 0.5200501
   brandColors:
     - '#313030'
     - '#786F65'
     - '#F3CFBD'
     - '#FBAB65'
     - '#396F49'
-  rhythmicContrast: 0.6159148
-typography_spectrum: 0.8088973
+  rhythmicContrast: 0.7362155
+layout_spectrum: 0.3471178
 name: MuseScenic
