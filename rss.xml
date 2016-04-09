@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[MuseScenic]]></title>
         <description><![CDATA[MuseScenic]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/musescenic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 20:27:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Apr 2016 20:27:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/musescenic/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Detail~ Paris Cafe' Mini Drop 18'h X 13'w]]></title>
+            <description><![CDATA[<article><h1>Detail~ Paris Cafe' Mini Drop 18'h X 13'w</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a278afa1d6840002be1b833cd7545f4dff35a16.png"></article>]]></description>
+            <link>https://thegrid.ai/musescenic/detail~-paris-cafe-mini-drop-18h-x-13w/index.html</link>
+            <guid isPermaLink="false">440ced0d-6971-4d10-b6e4-417cd6bcaacd</guid>
+            <pubDate>Sat, 09 Apr 2016 20:27:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Campaign~ Plumb, Level...]]></title>
             <description><![CDATA[<article><h1>Campaign~ Plumb, Level...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff07ade77535e8aa756117f4b837e205b1512ded.png"></article>]]></description>
-            <link>undefinedcampaign~-plumb-level/index.html</link>
+            <link>https://thegrid.ai/musescenic/campaign~-plumb-level/index.html</link>
             <guid isPermaLink="false">3297069f-bfc8-4697-86d6-9a84a6b63f56</guid>
             <pubDate>Sat, 09 Apr 2016 20:27:23 GMT</pubDate>
         </item>
